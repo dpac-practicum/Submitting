@@ -5,7 +5,7 @@ How to submit an assignment using Github Flow
 #### Table of Contents
 1. [Create a branch](#create-a-branch)
 2. [Make changes](#make-changes)
-    * [Update the README.md](#make-sure-you-update-the-readme-md)
+    * [Update the README.md](#make-sure-you-update-the-readmemd)
 3. [Create a pull request](#create-a-pull-request)
 4. [Add changes to pull requests](#add-changes-to-pull-requests)
 
